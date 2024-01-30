@@ -1,0 +1,12 @@
+[submodule ".doom.d"]
+	path = .doom.d
+	url = git@github.com:thor314/.doom.d.git
+[submodule "org"]
+	path = org
+	url = git@github.com:thor314/org.git
+[submodule ".emacs.d"]
+	path = .emacs.d
+	url = git@github.com:thor314/.emacs.d.git
+[submodule "deprecated-emacs"]
+	path = deprecated-emacs
+	url = git@github.com:thor314/deprecated-emacs.git
